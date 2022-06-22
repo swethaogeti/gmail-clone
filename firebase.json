@@ -1,0 +1,6 @@
+{
+  "hosting": {
+    "public": "build/gmail-clone",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
